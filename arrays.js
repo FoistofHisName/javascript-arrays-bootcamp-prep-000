@@ -4,4 +4,4 @@ var addElementToBeginningOfArray = [];
 [...addElementToBeginningOfArray]
 
 var destructivelyAddElementToEndOfArray = [];
-destructivelyAddElementToEndOfArray.unshift('foo')
+[destructivelyAddElementToEndOfArray.unshift]
